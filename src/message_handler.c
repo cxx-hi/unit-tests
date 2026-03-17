@@ -1,4 +1,4 @@
-
+#include <stddef.h>
 #include "message_handler.h"
 #include "freertos_queue.h"
 
